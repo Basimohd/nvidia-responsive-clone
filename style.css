@@ -81,10 +81,9 @@
     }
   }
 @media only screen and (max-width: 960px) {
-    .carousel-caption{
-        transform: translate(-110px,100px);
+   .carousel-caption{
+        transform: translate(-340px,100px);
     }
-
     .carousel-caption h5,
     p {
         margin: auto;
